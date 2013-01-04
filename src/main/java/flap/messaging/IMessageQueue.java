@@ -18,7 +18,7 @@
  * If you are using this project in your school or academic course, or even by your own,
  * please notify the author.
  * 
- *  Copyright (C) Luca Ferrari 2006-2012 - fluca1978 (at) gmail.com
+ *  Copyright (C) Luca Ferrari 2006-2013 - fluca1978 (at) gmail.com
  * All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
